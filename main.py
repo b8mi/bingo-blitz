@@ -1,7 +1,7 @@
 import random
 import tkinter as tk
 from tkinter import messagebox
-
+ 
 BG, PANEL, ACCENT, TEXT = "#101827", "#1d2b40", "#32d6ac", "#edf5ff"
 
 
