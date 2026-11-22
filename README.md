@@ -1,5 +1,5 @@
 # Bingo Blitz
-
+ 
 > A colorful Tkinter BINGO game with random cards, number calling, and automatic win detection.
 
 A tiny, standalone Python desktop project. **Only three repository files**: `main.py`, `README.md`, and `requirements.txt`.
